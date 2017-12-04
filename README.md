@@ -1,7 +1,3 @@
-# Easiest way to setup :D
-
-`make install_disk_images`
-
 # Q&A
 ## Where is my Xcode location?
 Type this line on your terminal and you can see it.
@@ -19,5 +15,9 @@ You will see something like this:
 ## Which developer disk images should I put on that folder?
 
 What ever you want
+
+# Easiest way to setup (coming soon)
+
+`make install_disk_images`
 
 Enjoy!
