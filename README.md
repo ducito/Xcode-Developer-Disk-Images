@@ -23,8 +23,11 @@
 - [iOS 11.4](https://github.com/ducito/Xcode-Developer-Disk-Images/raw/master/Devices%20Supports/11.4.zip)
 
 - [iOS 12.0](https://github.com/ducito/Xcode-Developer-Disk-Images/raw/master/Devices%20Supports/12.0.zip)
-- [iOS 12.0](https://github.com/ducito/Xcode-Developer-Disk-Images/raw/master/Devices%20Supports/12.1.zip)
-- [iOS 12.0](https://github.com/ducito/Xcode-Developer-Disk-Images/raw/master/Devices%20Supports/12.2.zip)
+- [iOS 12.1](https://github.com/ducito/Xcode-Developer-Disk-Images/raw/master/Devices%20Supports/12.1.zip)
+- [iOS 12.2](https://github.com/ducito/Xcode-Developer-Disk-Images/raw/master/Devices%20Supports/12.2.zip)
+- [iOS 12.3](https://github.com/ducito/Xcode-Developer-Disk-Images/raw/master/Devices%20Supports/12.3.zip)
+- [iOS 12.4](https://github.com/ducito/Xcode-Developer-Disk-Images/raw/master/Devices%20Supports/12.4.zip)
+
 - [iOS 13.1](https://github.com/ducito/Xcode-Developer-Disk-Images/raw/master/Devices%20Supports/13.1.zip)
 - [iOS 13.2](https://github.com/ducito/Xcode-Developer-Disk-Images/raw/master/Devices%20Supports/13.2.zip)
 
